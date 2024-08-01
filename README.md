@@ -53,10 +53,3 @@ The scope of this system is mainly used as a powerful means of communication for
 
 ### Source Code
 The source code for this project can be found in the `miniprojectfinal.py` file. It includes the implementation of the hand tracking algorithm, the drawing interface, and various utility functions required for the application to run smoothly.
-
-### Contributors
-- Yashas D (1NH21AI123)
-- Chethan S P (1NH21AI023)
-- Sushruth M S (1NH21AI107)
-
-Under the guidance of Dr. Sreejith S, Department of AI & ML, New Horizon College of Engineering.
