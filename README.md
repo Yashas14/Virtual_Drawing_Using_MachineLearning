@@ -1,5 +1,3 @@
-# Virtual_Drawing_Using_MachineLearning
-
 # ✨ Virtual Drawing Using Machine Learning 🖌️
 
 ## 🎨 Introduction: A Canvas in the Air
@@ -53,6 +51,7 @@ Our goal is to craft a magical experience where drawing transcends traditional b
 ## 📜 Source Code: The Grimoire of Creativity
 Explore the enchanted source code of this project in `miniprojectfinal.py`. It’s all there—from the spell of hand tracking to the incantations for the drawing interface. Feel free to delve into the code, experiment, and add your own magical touch!
 
+## 👥 Connect With us:
 
+**Yashas D** [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 Feel free to reach out for any questions or collaboration opportunities!
-- **Yashas D**  - [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
